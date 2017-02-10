@@ -1,0 +1,3 @@
+HTTP_PROXY=http://steveg:P1pp1pp1p@10.1.100.154:8080/
+HTTPS_PROXY=https://steveg:P1pp1pp1p@10.1.100.154:8080/
+NO_PROXY=master.hostname.example.com
