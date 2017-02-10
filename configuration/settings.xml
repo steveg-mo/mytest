@@ -14,7 +14,7 @@
                                                 <id>optional</id>
                                                 <active>true</active>
                                                 <protocol>http</protocol>
-                                                <username>mflnet\steveg</username>
+                                                <username>steveg</username>
                                                 <password>P1pp1pp1p</password>
                                                 <host>10.1.100.154</host>
                                                 <port>8080</port>
