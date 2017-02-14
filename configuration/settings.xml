@@ -11,7 +11,7 @@
      | Specification for one proxy, to be used in connecting to the network.
      | -->
                                 <proxy>
-                                                <id>optional</id>
+                                                <id>httpreq</id>
                                                 <active>true</active>
                                                 <protocol>http</protocol>
                                                 <username>steveg</username>
@@ -20,6 +20,17 @@
                                                 <port>8080</port>
                                                 <!--<nonProxyHosts>local.net|some.host.com</nonProxyHosts>-->
                                 </proxy>
+                                <proxy>
+                                                <id>httpsreq</id>
+                                                <active>true</active>
+                                                <protocol>https</protocol>
+                                                <username>steveg</username>
+                                                <password>P1pp1pp1p</password>
+                                                <host>10.1.100.154</host>
+                                                <port>8080</port>
+                                                <!--<nonProxyHosts>local.net|some.host.com</nonProxyHosts>-->
+                                </proxy>
+
 
                 </proxies>
 
